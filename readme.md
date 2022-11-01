@@ -4,7 +4,7 @@
 Capture WP mail logging data. Easily analyze email traffic and debug mail function issues.  
 
 
-[WP mail logging](https://wordpress.org/plugins/postbox-email-logs/)
+##### Download [WP mail logging](https://wordpress.org/plugins/postbox-email-logs/)
 
 ## Description
 
