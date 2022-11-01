@@ -22,7 +22,8 @@ Easily track emails sent from your website. This will helps you find email heade
 * Easily debug wp mail issues from the wp mail logs error message
 * WooCommerce email log
 
-[youtube https://www.youtube.com/watch?v=FSw5kJ4x6RI]
+[![Watch the video](https://i3.ytimg.com/vi/FSw5kJ4x6RI/maxresdefault.jpg)](https://www.youtube.com/watch?v=FSw5kJ4x6RI)
+
 
 [WP Mail Smtp – SMTP7](https://wordpress.org/plugins/wp-mail-smtp-mailer/)
 
@@ -34,6 +35,7 @@ Easily track emails sent from your website. This will helps you find email heade
 2. Activate the plugin through the WordPress admin interface.
 3. Done!
 
+### Feel free to contribute
 
 
 
